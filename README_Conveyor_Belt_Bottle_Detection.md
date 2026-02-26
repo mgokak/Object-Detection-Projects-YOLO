@@ -259,21 +259,6 @@ This project demonstrates:
 
 ---
 
-## Portfolio Value
-
-This project highlights practical experience in:
-
-- Computer Vision  
-- Real-time inference systems  
-- Industrial automation use cases  
-
-Relevant for roles such as:
-- Computer Vision Engineer  
-- Machine Learning Engineer  
-- AI Engineer  
-- Edge AI Developer  
-
----
 
 ## Author
 
